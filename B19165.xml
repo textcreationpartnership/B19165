@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King, His Majesties proclamation to all the inhabitants of his counties of Oxford, North-Hampton, Buckingham, Middlesex, Surrey, Berks, South-Hampton, Wilts, Glocester, Worcester, Warwicke, Sussex, and Kent commanding them to give notice to the next quarter of His Majesties army, of the approach of any of the rebells forces neere to them.</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <extent>Approx. 2KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B19165</idno><idno type="EEBO-CITATION">11184821</idno>
+  <idno type="VID">204862</idno>
+  <idno type="EEBO-PROQUEST">2240899612</idno>
+  
+            <idno type="STC">Wing C2699</idno>
+            <idno type="OCLC">11184821</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B19165)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 204862)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1437:29)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King, His Majesties proclamation to all the inhabitants of his counties of Oxford, North-Hampton, Buckingham, Middlesex, Surrey, Berks, South-Hampton, Wilts, Glocester, Worcester, Warwicke, Sussex, and Kent commanding them to give notice to the next quarter of His Majesties army, of the approach of any of the rebells forces neere to them.</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+               </titleStmt>
+               <extent>1 broadside.   </extent>
+               <publicationStmt>
+                  <publisher>By L. Lichfield,</publisher>
+                  <pubPlace>[Oxford :</pubPlace>
+                  <date>1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Given at Our court at Oxford the ninth day of December, in the eighteenth yeare of Our reigne."</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="royal_proclamation">
+            <pb facs="tcp:204862:1"/>
+            <head>
+               <figure>
+                  <head>C R</head>
+                  <q xml:lang="frm">HONI SOIT QVI MAL Y PENSE</q>
+                  <figDesc>royal blazon surmounted by a crown</figDesc>
+               </figure>
+            </head>
+            <head>BY THE KING.</head>
+            <head type="sub">¶ His <hi>Majesties</hi> Proclamation to all the Inhabitants of His Counties of Oxford, North-Hampton, Buckingham, Middlesex, Surrey, Berks, South-Hampton, Wilts, Glocester, Worcester, Warwicke, Sussex, and Kent; Commanding them to give notice to the next Quarter of His <hi>Majesties</hi> Army, of the Approach of any of the Rebells forces neere unto them.</head>
+            <p>
+               <seg rend="decorInit">O</seg>UR Will and Pleasure is, and We doe hereby straightly charge and com<g ref="char:EOLhyphen"/>mand all Our loving Subjects of Our Counties of <hi>Oxford, North-Hamp<g ref="char:EOLhyphen"/>ton, Buckingham, Middlesex, Surrey, Berks, South-Hampton, Wilts, Glo<g ref="char:EOLhyphen"/>cester, Worcester, Warwick, Sussex,</hi> and <hi>Kent,</hi> so soon as any of the Forces belonging to the Army now under the Command of the Earle of <hi>Essex,</hi> now in open Rebellion; or any other Forces, not leavied by Our Authority or Consent, shall arrive in any Towne or other part of Our said severall Counties, that you take speciall care, that some inhabitant of that Towne or Part be immediatly sent to give no<g ref="char:EOLhyphen"/>tice thereof to the Principall Officer of any of Our Forces, remaining in the neerest Quarter thereunto. And this Wee shall expect from all Our Subjects, but particularly from the Prin<g ref="char:EOLhyphen"/>cipall Officer of every Towne, and Constable of every Parish, in Our Counties aforesaid; upon paine of being apprehended and proceeded against for concealing of Treason against Vs. And Wee doe hereby will and Command the chiefe Officer of Our said next Forces upon such default forthwith to apprehend and bring to Our Iustice whatsoever officer or Constable shall neglect his Duty herein. Whereof faile you not, as you tender Our most high Indignation, and will answer your neglect herein at your uttermost perills.</p>
+            <closer>
+               <dateline>¶ Given at Our Court at <hi>Oxford,</hi>
+                  <date>the ninth day of <hi>December,</hi> in the Eighteenth yeare of Our Reigne.</date>
+               </dateline>
+               <lb/> God save the King.</closer>
+         </div>
+      </body>
+   </text>
+</TEI>
